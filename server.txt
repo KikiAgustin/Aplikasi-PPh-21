@@ -1,0 +1,5 @@
+Database server
+
+database = k8030465_cv_maestro
+username = k8030465_maestro
+database = qd@_*ZC3h=AM
